@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+body{
+    background-color: rgb(131, 189, 237);
+}
+.cabc{
+    background-color: azure;
+}
+.imagens{
+    background-color: rgba(0, 0, 0, 0.348);
+    margin: 100px;
+    border-radius: 15px;
+}
+.blocos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.imgs{
+    padding: 13px;
+}
+h2, h1{
+    text-align: center;
+}
+.navbar{
+    background-color: rgb(38, 134, 252);
+}
